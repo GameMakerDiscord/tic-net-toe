@@ -1,0 +1,1 @@
+return global._is_server;
