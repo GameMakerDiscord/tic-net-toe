@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0d6aa60e-d649-4838-8290-873f119d008e",
+            "Value": {
+                "id": "ac809dd8-b2ad-409c-907d-c23c690b27b7",
+                "resourcePath": "shaders\\shd_bloom\\shd_bloom.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "0d8d9bce-6f00-4e59-a550-07f75f924e6e",
             "Value": {
                 "id": "93646213-f743-44be-a46e-87f809423ded",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "78191f84-562e-44d0-9d22-b56dd2baa895",
+            "Value": {
+                "id": "e7116f60-b471-45e2-bcc3-6563535193a2",
+                "resourcePath": "objects\\Bloom\\Bloom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7935cea2-28da-4775-9f41-e55d58ab9f89",
             "Value": {
                 "id": "682ee3b0-7af4-4099-9a2d-a8f328f27e6e",
@@ -252,14 +268,6 @@
                 "id": "2ab2e3d8-1fcf-4c24-b5b9-717ba43c8a58",
                 "resourcePath": "scripts\\check_win\\check_win.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
-            "Value": {
-                "id": "be45107b-4087-423e-98d6-c3ccce9541f3",
-                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
-                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
