@@ -5,4 +5,4 @@ A good starter project for getting into TCP networking in GMS2. Fully working Ti
 
 ![Screenshot](https://i.imgur.com/p6IV9sZ.png)
 
-**Additional FX programming by [@itsmatharoo](https://twitter.com/itsmatharoo)
+**Additional FX programming by [@itsmatharoo](https://twitter.com/itsmatharoo)**
